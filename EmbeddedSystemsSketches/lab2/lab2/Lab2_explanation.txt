@@ -1,0 +1,13 @@
+Lab2 (ammons)
+
+A clear explanation of how many and what resistors are needed in the circuit:
+
+Since a regular red LED has a forward voltage of 1.7V, I've assumed that the blue LED
+has the same VF.
+
+In this case, I've provided both of the LED's on my breadboard with 100 Ohm resistors,
+since we do not have the 80 Ohm resistors required to handle the voltage drop of 1.6V
+over the circuit.
+
+So two 100 Ohm resistors are used per LED.
+
